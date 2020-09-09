@@ -32,7 +32,7 @@
                 $res = $sql->sel($where);
                 
                 if($res){
-                    return 登录成功;
+                    return 1;
                 }else{
                     return "登录失败";
                 }
