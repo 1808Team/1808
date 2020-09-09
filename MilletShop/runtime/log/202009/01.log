@@ -1,0 +1,4038 @@
+---------------------------------------------------------------
+[ 2020-09-01T08:39:00+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.083926s][吞吐率：11.92req/s] [内存消耗：1,787.45kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:02+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.034232s][吞吐率：29.21req/s] [内存消耗：1,470.43kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:08+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.032724s][吞吐率：30.56req/s] [内存消耗：1,470.43kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:10+08:00 ] 127.0.0.1 GET /Index/Index/shopCat
+[ info ] xiaomi.shop/Index/Index/shopCat [运行时间：0.024686s][吞吐率：40.51req/s] [内存消耗：1,590.30kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\gouwuche.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:10+08:00 ] 127.0.0.1 GET /Index/Index/login.html
+[ info ] xiaomi.shop/Index/Index/login.html [运行时间：0.020649s][吞吐率：48.43req/s] [内存消耗：1,375.66kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/Index/shopCat',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:19+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.025744s][吞吐率：38.84req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:20+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.030617s][吞吐率：32.66req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:31+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.025637s][吞吐率：39.01req/s] [内存消耗：1,483.15kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:47+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.043106s][吞吐率：23.20req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:47+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.025356s][吞吐率：39.44req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:49+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.026924s][吞吐率：37.14req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:50+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.031984s][吞吐率：31.27req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:39:55+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.025729s][吞吐率：38.87req/s] [内存消耗：1,483.15kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:40:14+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.040248s][吞吐率：24.85req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:40:17+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.029158s][吞吐率：34.30req/s] [内存消耗：1,483.15kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:41:14+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.033034s][吞吐率：30.27req/s] [内存消耗：1,483.15kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:42:09+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.029792s][吞吐率：33.57req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:42:09+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.027879s][吞吐率：35.87req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:42:09+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.034782s][吞吐率：28.75req/s] [内存消耗：1,483.35kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:42:12+08:00 ] 127.0.0.1 GET /Index/index/xiangqing
+[ info ] xiaomi.shop/Index/index/xiangqing [运行时间：0.022136s][吞吐率：45.18req/s] [内存消耗：1,483.15kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:43:47+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.043536s][吞吐率：22.97req/s] [内存消耗：1,787.22kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:43:50+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.032988s][吞吐率：30.31req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:45:45+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.041885s][吞吐率：23.87req/s] [内存消耗：1,787.22kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:45:49+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.027581s][吞吐率：36.26req/s] [内存消耗：1,483.13kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\xiaomiShop\MilletShop\application/index/view\.\xiangqiang.html[D:\xiaomiShop\MilletShop\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-09-01T08:46:10+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.054367s][吞吐率：18.39req/s] [内存消耗：1,602.69kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:46:10+08:00 ] 127.0.0.1 GET /Index/Index/image/liebiao_xiaomi6.jpg
+[ info ] xiaomi.shop/Index/Index/image/liebiao_xiaomi6.jpg [运行时间：0.063128s][吞吐率：15.84req/s] [内存消耗：1,482.45kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/Index/xianqing',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:47:08+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.037930s][吞吐率：26.36req/s] [内存消耗：1,602.78kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T08:48:18+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.049022s][吞吐率：20.40req/s] [内存消耗：1,602.78kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:06:31+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.033538s][吞吐率：29.82req/s] [内存消耗：1,381.79kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:06:33+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.025393s][吞吐率：39.38req/s] [内存消耗：1,381.79kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:06:34+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.024527s][吞吐率：40.77req/s] [内存消耗：1,381.79kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:06:47+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.023634s][吞吐率：42.31req/s] [内存消耗：1,584.56kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:06:47+08:00 ] 127.0.0.1 GET /static/jquery/jquery..min.js
+[ info ] xiaomi.shop/static/jquery/jquery..min.js [运行时间：0.021092s][吞吐率：47.41req/s] [内存消耗：1,151.38kb] [文件加载：55]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:07:12+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.041840s][吞吐率：23.90req/s] [内存消耗：1,584.84kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T09:15:14+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.051210s][吞吐率：19.53req/s] [内存消耗：1,629.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T09:18:58+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.046025s][吞吐率：21.73req/s] [内存消耗：1,629.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_img()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T09:19:47+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.034434s][吞吐率：29.04req/s] [内存消耗：1,629.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_img()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T09:20:08+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.045271s][吞吐率：22.09req/s] [内存消耗：1,629.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T09:56:06+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.040367s][吞吐率：24.77req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T09:56:06+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.032740s][吞吐率：30.54req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T09:56:07+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.030851s][吞吐率：32.41req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T10:00:25+08:00 ] 127.0.0.1 GET /Index/index/liebiao
+[ info ] xiaomi.shop/Index/index/liebiao [运行时间：0.032873s][吞吐率：30.42req/s] [内存消耗：1,614.47kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\liebiao.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:00:30+08:00 ] 127.0.0.1 GET /Index/index/liebiao
+[ info ] xiaomi.shop/Index/index/liebiao [运行时间：0.024054s][吞吐率：41.57req/s] [内存消耗：1,385.59kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/liebiao',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\liebiao.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:00:35+08:00 ] 127.0.0.1 GET /Index/Index/shopCat
+[ info ] xiaomi.shop/Index/Index/shopCat [运行时间：0.020958s][吞吐率：47.71req/s] [内存消耗：1,377.57kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\gouwuche.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:00:40+08:00 ] 127.0.0.1 GET /Index/Index/shopCat
+[ info ] xiaomi.shop/Index/Index/shopCat [运行时间：0.020108s][吞吐率：49.73req/s] [内存消耗：1,377.59kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/Index/shopCat',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\gouwuche.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:00:49+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.023333s][吞吐率：42.86req/s] [内存消耗：1,381.59kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:00:58+08:00 ] 127.0.0.1 GET /Index/Index/xianqing
+[ info ] xiaomi.shop/Index/Index/xianqing [运行时间：0.024687s][吞吐率：40.51req/s] [内存消耗：1,381.59kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\xiangqing.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:01:02+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.027145s][吞吐率：36.84req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:01:15+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.029164s][吞吐率：34.29req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:01:27+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.030056s][吞吐率：33.27req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:01:30+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.030336s][吞吐率：32.96req/s] [内存消耗：1,470.23kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:01:33+08:00 ] 127.0.0.1 POST /
+[ info ] xiaomi.shop/ [运行时间：0.030516s][吞吐率：32.77req/s] [内存消耗：1,469.67kb] [文件加载：59]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://xiaomi.shop',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:03:51+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.046472s][吞吐率：21.52req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T10:03:53+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.044965s][吞吐率：22.24req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_src()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T10:05:45+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.047242s][吞吐率：21.17req/s] [内存消耗：1,629.73kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_img()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T10:05:45+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.030427s][吞吐率：32.87req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_img()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T10:05:46+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.030176s][吞吐率：33.14req/s] [内存消耗：1,489.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined function captcha_img()[D:\xiaomiShop\MilletShop\runtime\temp\cad962e2fc6841e37fb8d077fb85315d.php:33]
+---------------------------------------------------------------
+[ 2020-09-01T10:09:35+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.022952s][吞吐率：43.57req/s] [内存消耗：951.91kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:09:35+08:00 ] 127.0.0.1 GET /Index/index/%3Cimg%20src=
+[ info ] xiaomi.shop/Index/index/%3Cimg%20src= [运行时间：0.051390s][吞吐率：19.46req/s] [内存消耗：925.35kb] [文件加载：66]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:09:45+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.023569s][吞吐率：42.43req/s] [内存消耗：1,145.21kb] [文件加载：67]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:09:46+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.055700s][吞吐率：17.95req/s] [内存消耗：470.11kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:14+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.034631s][吞吐率：28.88req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:14+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.030693s][吞吐率：32.58req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:22+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.028545s][吞吐率：35.03req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:22+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.051960s][吞吐率：19.25req/s] [内存消耗：597.34kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]mt_rand(): max(6) is smaller than min(62)[D:\xiaomiShop\MilletShop\vendor\topthink\think-captcha\src\Captcha.php:232]
+---------------------------------------------------------------
+[ 2020-09-01T10:13:28+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.020324s][吞吐率：49.20req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:29+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.044495s][吞吐率：22.47req/s] [内存消耗：597.34kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]mt_rand(): max(4) is smaller than min(62)[D:\xiaomiShop\MilletShop\vendor\topthink\think-captcha\src\Captcha.php:232]
+---------------------------------------------------------------
+[ 2020-09-01T10:13:29+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.021287s][吞吐率：46.98req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:29+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.045295s][吞吐率：22.08req/s] [内存消耗：597.34kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]mt_rand(): max(4) is smaller than min(62)[D:\xiaomiShop\MilletShop\vendor\topthink\think-captcha\src\Captcha.php:232]
+---------------------------------------------------------------
+[ 2020-09-01T10:13:34+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.018922s][吞吐率：52.85req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:34+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.020991s][吞吐率：47.64req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:38+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.026980s][吞吐率：37.06req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:39+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.048493s][吞吐率：20.62req/s] [内存消耗：597.34kb] [文件加载：61]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]mt_rand(): max(2) is smaller than min(62)[D:\xiaomiShop\MilletShop\vendor\topthink\think-captcha\src\Captcha.php:232]
+---------------------------------------------------------------
+[ 2020-09-01T10:13:49+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.019784s][吞吐率：50.55req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:13:49+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.029130s][吞吐率：34.33req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:06+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.027372s][吞吐率：36.53req/s] [内存消耗：1,145.24kb] [文件加载：67]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:06+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.031349s][吞吐率：31.90req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:07+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.023295s][吞吐率：42.93req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:07+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.027083s][吞吐率：36.92req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:07+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.017052s][吞吐率：58.64req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:08+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.021846s][吞吐率：45.78req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:43+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.021977s][吞吐率：45.50req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:43+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.031956s][吞吐率：31.29req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:56+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.014866s][吞吐率：67.27req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:15:56+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.024822s][吞吐率：40.29req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:16:04+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.020169s][吞吐率：49.58req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:16:05+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.026529s][吞吐率：37.69req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:16:55+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.028345s][吞吐率：35.28req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:16:55+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.031951s][吞吐率：31.30req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:19:39+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.022852s][吞吐率：43.76req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:19:39+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.037405s][吞吐率：26.73req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:20:26+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.018752s][吞吐率：53.33req/s] [内存消耗：951.95kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:20:27+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.031911s][吞吐率：31.34req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:21:16+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.026240s][吞吐率：38.11req/s] [内存消耗：1,144.74kb] [文件加载：67]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T10:21:16+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.031506s][吞吐率：31.74req/s] [内存消耗：470.19kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=7p34lhtan5tmoj3p04m4g889g2',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:08:35+08:00 ] 127.0.0.1 GET /
+[ info ] xiaomi.shop/ [运行时间：0.034615s][吞吐率：28.89req/s] [内存消耗：981.23kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:08:37+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.014605s][吞吐率：68.47req/s] [内存消耗：951.48kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:08:37+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.016726s][吞吐率：59.79req/s] [内存消耗：469.27kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:02+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.022359s][吞吐率：44.72req/s] [内存消耗：1,144.67kb] [文件加载：67]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:03+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.021426s][吞吐率：46.67req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:03+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.019898s][吞吐率：50.26req/s] [内存消耗：951.88kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:03+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.027344s][吞吐率：36.57req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:04+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.019572s][吞吐率：51.09req/s] [内存消耗：951.88kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:04+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.030023s][吞吐率：33.31req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:04+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.019849s][吞吐率：50.38req/s] [内存消耗：951.88kb] [文件加载：65]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:09:04+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.018745s][吞吐率：53.35req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:16+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.022960s][吞吐率：43.55req/s] [内存消耗：1,145.17kb] [文件加载：67]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:16+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.023224s][吞吐率：43.06req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:17+08:00 ] 127.0.0.1 GET /captcha.html?
+[ info ] xiaomi.shop/captcha.html? [运行时间：0.010296s][吞吐率：97.12req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:18+08:00 ] 127.0.0.1 GET /captcha.html??
+[ info ] xiaomi.shop/captcha.html?? [运行时间：0.012824s][吞吐率：77.98req/s] [内存消耗：469.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '?' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:18+08:00 ] 127.0.0.1 GET /captcha.html???
+[ info ] xiaomi.shop/captcha.html??? [运行时间：0.009186s][吞吐率：108.86req/s] [内存消耗：469.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '??' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:19+08:00 ] 127.0.0.1 GET /captcha.html????
+[ info ] xiaomi.shop/captcha.html???? [运行时间：0.010388s][吞吐率：96.27req/s] [内存消耗：469.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '???' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:19+08:00 ] 127.0.0.1 GET /captcha.html?????
+[ info ] xiaomi.shop/captcha.html????? [运行时间：0.009996s][吞吐率：100.04req/s] [内存消耗：469.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:20+08:00 ] 127.0.0.1 GET /captcha.html??????
+[ info ] xiaomi.shop/captcha.html?????? [运行时间：0.009230s][吞吐率：108.34req/s] [内存消耗：469.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '?????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:20+08:00 ] 127.0.0.1 GET /captcha.html???????
+[ info ] xiaomi.shop/captcha.html??????? [运行时间：0.022022s][吞吐率：45.41req/s] [内存消耗：469.74kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '??????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:20+08:00 ] 127.0.0.1 GET /captcha.html????????
+[ info ] xiaomi.shop/captcha.html???????? [运行时间：0.011152s][吞吐率：89.67req/s] [内存消耗：469.75kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '???????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:20+08:00 ] 127.0.0.1 GET /captcha.html?????????
+[ info ] xiaomi.shop/captcha.html????????? [运行时间：0.011954s][吞吐率：83.65req/s] [内存消耗：469.75kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:21+08:00 ] 127.0.0.1 GET /captcha.html??????????
+[ info ] xiaomi.shop/captcha.html?????????? [运行时间：0.011291s][吞吐率：88.57req/s] [内存消耗：469.75kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '?????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:21+08:00 ] 127.0.0.1 GET /captcha.html???????????
+[ info ] xiaomi.shop/captcha.html??????????? [运行时间：0.014364s][吞吐率：69.62req/s] [内存消耗：469.75kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '??????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:21+08:00 ] 127.0.0.1 GET /captcha.html????????????
+[ info ] xiaomi.shop/captcha.html???????????? [运行时间：0.010354s][吞吐率：96.58req/s] [内存消耗：469.77kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '???????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:21+08:00 ] 127.0.0.1 GET /captcha.html?????????????
+[ info ] xiaomi.shop/captcha.html????????????? [运行时间：0.012844s][吞吐率：77.86req/s] [内存消耗：469.77kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:21+08:00 ] 127.0.0.1 GET /captcha.html??????????????
+[ info ] xiaomi.shop/captcha.html?????????????? [运行时间：0.016322s][吞吐率：61.27req/s] [内存消耗：469.77kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '?????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html???????????????
+[ info ] xiaomi.shop/captcha.html??????????????? [运行时间：0.011043s][吞吐率：90.55req/s] [内存消耗：469.77kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '??????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html????????????????
+[ info ] xiaomi.shop/captcha.html???????????????? [运行时间：0.012819s][吞吐率：78.01req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '???????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html?????????????????
+[ info ] xiaomi.shop/captcha.html????????????????? [运行时间：0.012583s][吞吐率：79.47req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html??????????????????
+[ info ] xiaomi.shop/captcha.html?????????????????? [运行时间：0.012936s][吞吐率：77.30req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '?????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html???????????????????
+[ info ] xiaomi.shop/captcha.html??????????????????? [运行时间：0.010262s][吞吐率：97.45req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '??????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html????????????????????
+[ info ] xiaomi.shop/captcha.html???????????????????? [运行时间：0.013447s][吞吐率：74.37req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '???????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html?????????????????????
+[ info ] xiaomi.shop/captcha.html????????????????????? [运行时间：0.011349s][吞吐率：88.11req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '????????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:22+08:00 ] 127.0.0.1 GET /captcha.html??????????????????????
+[ info ] xiaomi.shop/captcha.html?????????????????????? [运行时间：0.010412s][吞吐率：96.04req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '?????????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:23+08:00 ] 127.0.0.1 GET /captcha.html???????????????????????
+[ info ] xiaomi.shop/captcha.html??????????????????????? [运行时间：0.009445s][吞吐率：105.88req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '??????????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:23+08:00 ] 127.0.0.1 GET /captcha.html????????????????????????
+[ info ] xiaomi.shop/captcha.html???????????????????????? [运行时间：0.010919s][吞吐率：91.58req/s] [内存消耗：469.78kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  '???????????????????????' => '',
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:11:24+08:00 ] 127.0.0.1 GET /Index/Index/registers
+[ info ] xiaomi.shop/Index/Index/registers [运行时间：0.019521s][吞吐率：51.23req/s] [内存消耗：925.51kb] [文件加载：66]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:19:50+08:00 ] 127.0.0.1 GET /Index/index/login
+[ info ] xiaomi.shop/Index/index/login [运行时间：0.055823s][吞吐率：17.91req/s] [内存消耗：1,146.69kb] [文件加载：67]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\xiaomiShop\MilletShop\application/index/view\.\login.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:19:50+08:00 ] 127.0.0.1 GET /captcha.html
+[ info ] xiaomi.shop/captcha.html [运行时间：0.081672s][吞吐率：12.24req/s] [内存消耗：469.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/[:id]',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+  ),
+  'var' => 
+  array (
+    'id' => '',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://xiaomi.shop/Index/index/login',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+  'id' => '',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:19:57+08:00 ] 127.0.0.1 GET /Index/index/test
+[ info ] xiaomi.shop/Index/index/test [运行时间：1.484474s][吞吐率：0.67req/s] [内存消耗：885.03kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:20:20+08:00 ] 127.0.0.1 GET /Index/index/test
+[ info ] xiaomi.shop/Index/index/test [运行时间：0.572520s][吞吐率：1.75req/s] [内存消耗：885.58kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:21:02+08:00 ] 127.0.0.1 GET /Index/index/test
+[ info ] xiaomi.shop/Index/index/test [运行时间：0.688453s][吞吐率：1.45req/s] [内存消耗：885.55kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:21:43+08:00 ] 127.0.0.1 GET /Index/index/test
+[ info ] xiaomi.shop/Index/index/test [运行时间：1.251925s][吞吐率：0.80req/s] [内存消耗：885.85kb] [文件加载：62]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-01T11:21:54+08:00 ] 127.0.0.1 GET /Index/index/test
+[ info ] xiaomi.shop/Index/index/test [运行时间：1.101095s][吞吐率：0.91req/s] [内存消耗：888.07kb] [文件加载：63]
+[ info ] [ LANG ] D:\xiaomiShop\MilletShop\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb3c2dm1n3ljp4f1offfiii6ut',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'xiaomi.shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File

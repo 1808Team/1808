@@ -1,0 +1,457 @@
+---------------------------------------------------------------
+[ 2020-05-28T14:38:58+08:00 ] 127.0.0.1 GET /
+[ info ] ccc.tp51.cn/ [运行时间：0.048380s][吞吐率：20.67req/s] [内存消耗：1,118.81kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T14:39:09+08:00 ] 127.0.0.1 GET /login/index
+[ info ] ccc.tp51.cn/login/index [运行时间：0.040503s][吞吐率：24.69req/s] [内存消耗：1,515.73kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/login/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:50:53+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.052203s][吞吐率：19.16req/s] [内存消耗：2,287.97kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=1|5; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'content-length' => '35',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '666666',
+  'LoginPass' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010446s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.001555s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '666666'  AND `pass` = '123' LIMIT 1 [ RunTime:0.000929s ]
+[ error ] [8192]Non-static method think\Log::write() should not be called statically[D:\phpstudy_pro\WWW\tp5.1\application\login\controller\Index.php:82]
+---------------------------------------------------------------
+[ 2020-05-28T18:51:00+08:00 ] 127.0.0.1 GET /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.046706s][吞吐率：21.41req/s] [内存消耗：1,516.17kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=1|5; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/login/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:51:09+08:00 ] 127.0.0.1 GET /login/index
+[ info ] ccc.tp51.cn/login/index [运行时间：0.047377s][吞吐率：21.11req/s] [内存消耗：1,516.80kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=1|5; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/login/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:51:12+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.032007s][吞吐率：31.24req/s] [内存消耗：1,284.93kb] [文件加载：55]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '26',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '',
+  'LoginPass' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:51:19+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.058547s][吞吐率：17.08req/s] [内存消耗：2,226.36kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '35',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '6666661',
+  'LoginPass' => '23',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004083s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.001624s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '6666661'  AND `pass` = '23' LIMIT 1 [ RunTime:0.001641s ]
+---------------------------------------------------------------
+[ 2020-05-28T18:51:26+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.052111s][吞吐率：19.19req/s] [内存消耗：2,226.36kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '36',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '6666661',
+  'LoginPass' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001122s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.002444s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '6666661'  AND `pass` = '123' LIMIT 1 [ RunTime:0.000513s ]
+---------------------------------------------------------------
+[ 2020-05-28T18:51:30+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.058978s][吞吐率：16.96req/s] [内存消耗：2,288.12kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '35',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '666666',
+  'LoginPass' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001135s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.001106s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '666666'  AND `pass` = '123' LIMIT 1 [ RunTime:0.000734s ]
+[ error ] [8192]Non-static method think\Log::write() should not be called statically[D:\phpstudy_pro\WWW\tp5.1\application\login\controller\Index.php:82]
+---------------------------------------------------------------
+[ 2020-05-28T18:52:10+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.047009s][吞吐率：21.27req/s] [内存消耗：2,288.12kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '35',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '666666',
+  'LoginPass' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001099s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.001110s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '666666'  AND `pass` = '123' LIMIT 1 [ RunTime:0.000485s ]
+[ error ] [8192]Non-static method think\Log::write() should not be called statically[D:\phpstudy_pro\WWW\tp5.1\application\login\controller\Index.php:82]
+---------------------------------------------------------------
+[ 2020-05-28T18:52:17+08:00 ] 127.0.0.1 GET /login/index
+[ info ] ccc.tp51.cn/login/index [运行时间：0.078857s][吞吐率：12.68req/s] [内存消耗：1,516.80kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/login/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:52:23+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.047916s][吞吐率：20.87req/s] [内存消耗：2,288.12kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '35',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '666666',
+  'LoginPass' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001370s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.003975s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '666666'  AND `pass` = '123' LIMIT 1 [ RunTime:0.000676s ]
+[ error ] [8192]Non-static method think\Log::write() should not be called statically[D:\phpstudy_pro\WWW\tp5.1\application\login\controller\Index.php:82]
+---------------------------------------------------------------
+[ 2020-05-28T18:56:50+08:00 ] 127.0.0.1 GET /
+[ info ] ccc.tp51.cn/ [运行时间：0.041480s][吞吐率：24.11req/s] [内存消耗：1,118.82kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:58:58+08:00 ] 127.0.0.1 GET /login/index
+[ info ] ccc.tp51.cn/login/index [运行时间：0.060687s][吞吐率：16.48req/s] [内存消耗：1,516.80kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/login/view\index\index.html [ array (
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-28T18:59:05+08:00 ] 127.0.0.1 POST /login/index/index.html
+[ info ] ccc.tp51.cn/login/index/index.html [运行时间：0.054581s][吞吐率：18.32req/s] [内存消耗：2,186.84kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; pgv_pvi=3164481536; pgv_si=s1251643392; thinkphp_show_page_trace=0|0; PHPSESSID=kblqjssqscev2ba1jd40c0clds',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/login/index',
+  'origin' => 'http://ccc.tp51.cn',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'content-length' => '35',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'LoginRoot' => '666666',
+  'LoginPass' => '123',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+  'httponly' => true,
+  'secure' => false,
+)
+[ info ] 测试日志
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002509s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.001484s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `admin` WHERE  `root` = '666666'  AND `pass` = '123' LIMIT 1 [ RunTime:0.000636s ]

@@ -1,0 +1,1939 @@
+---------------------------------------------------------------
+[ 2020-05-16T09:07:02+08:00 ] 127.0.0.1 GET /app/good.class.php
+[ info ] ccc.tp51.cn/app/good.class.php [运行时间：0.050044s][吞吐率：19.98req/s] [内存消耗：1,024.55kb] [文件加载：48]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:07:09+08:00 ] 127.0.0.1 GET /admin/skipredirect/index
+[ info ] ccc.tp51.cn/admin/skipredirect/index [运行时间：0.029515s][吞吐率：33.88req/s] [内存消耗：1,245.88kb] [文件加载：55]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:07:12+08:00 ] 127.0.0.1 GET /admin/Login/index
+[ info ] ccc.tp51.cn/admin/Login/index [运行时间：0.025381s][吞吐率：39.40req/s] [内存消耗：1,241.73kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://ccc.tp51.cn/admin/skipredirect/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\login\index.html [ array (
+  0 => 'res1',
+  1 => 'res2',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:07:47+08:00 ] 127.0.0.1 GET /admin/Data_test/getnomodledate
+[ info ] ccc.tp51.cn/admin/Data_test/getnomodledate [运行时间：0.045100s][吞吐率：22.17req/s] [内存消耗：1,949.72kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006011s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.006170s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000546s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000380s ]
+---------------------------------------------------------------
+[ 2020-05-16T09:08:25+08:00 ] 127.0.0.1 GET /
+[ info ] ccc.tp51.cn/ [运行时间：0.023274s][吞吐率：42.97req/s] [内存消耗：977.73kb] [文件加载：45]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:08:46+08:00 ] 127.0.0.1 GET /admin/Name
+[ info ] ccc.tp51.cn/admin/Name [运行时间：0.029624s][吞吐率：33.76req/s] [内存消耗：1,027.41kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:09:00+08:00 ] 127.0.0.1 GET /admin/model/Name
+[ info ] ccc.tp51.cn/admin/model/Name [运行时间：0.029396s][吞吐率：34.02req/s] [内存消耗：1,027.43kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:35:53+08:00 ] 127.0.0.1 GET /admin/Data_test/var_Dump
+[ info ] ccc.tp51.cn/admin/Data_test/var_Dump [运行时间：0.021318s][吞吐率：46.91req/s] [内存消耗：1,278.38kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:36:12+08:00 ] 127.0.0.1 GET /admin/Data_test/var_dump
+[ info ] ccc.tp51.cn/admin/Data_test/var_dump [运行时间：0.023320s][吞吐率：42.88req/s] [内存消耗：1,278.38kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T09:36:19+08:00 ] 127.0.0.1 GET /admin/Data_test/varDump
+[ info ] ccc.tp51.cn/admin/Data_test/varDump [运行时间：0.063196s][吞吐率：15.82req/s] [内存消耗：1,281.30kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\DataTest::Myper()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\DataTest.php:11]
+---------------------------------------------------------------
+[ 2020-05-16T09:37:17+08:00 ] 127.0.0.1 GET /admin/Data_test/varDump
+[ info ] ccc.tp51.cn/admin/Data_test/varDump [运行时间：0.030392s][吞吐率：32.90req/s] [内存消耗：1,281.70kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\DataTest::Myper()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\DataTest.php:10]
+---------------------------------------------------------------
+[ 2020-05-16T09:37:31+08:00 ] 127.0.0.1 GET /admin/Data_test/varDump
+[ info ] ccc.tp51.cn/admin/Data_test/varDump [运行时间：0.027616s][吞吐率：36.21req/s] [内存消耗：1,231.41kb] [文件加载：52]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:13:27+08:00 ] 127.0.0.1 GET /admin/Data_test/getnomodledate
+[ info ] ccc.tp51.cn/admin/Data_test/getnomodledate [运行时间：0.025530s][吞吐率：39.17req/s] [内存消耗：1,066.50kb] [文件加载：54]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:13:40+08:00 ] 127.0.0.1 GET /admin/Data_test/getnomodledate
+[ info ] ccc.tp51.cn/admin/Data_test/getnomodledate [运行时间：0.062303s][吞吐率：16.05req/s] [内存消耗：2,200.62kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003111s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.007773s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.002085s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:20:43+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.027441s][吞吐率：36.44req/s] [内存消耗：1,282.51kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'thikn\Model' not found[D:\phpstudy_pro\WWW\tp5.1\application\admin\model\Name.php:4]
+---------------------------------------------------------------
+[ 2020-05-16T10:22:07+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.049437s][吞吐率：20.23req/s] [内存消耗：2,592.86kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001180s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001028s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000381s ]
+[ error ] [0]类的属性不存在:app\admin\model\Name->mySelect[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\model\concern\Attribute.php:478]
+---------------------------------------------------------------
+[ 2020-05-16T10:22:24+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.036619s][吞吐率：27.31req/s] [内存消耗：2,547.87kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000830s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000895s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000312s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:38:06+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.023885s][吞吐率：41.87req/s] [内存消耗：1,669.34kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\DataTest::feth()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\DataTest.php:26]
+---------------------------------------------------------------
+[ 2020-05-16T10:38:13+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.038804s][吞吐率：25.77req/s] [内存消耗：1,669.34kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\DataTest::fecth()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\DataTest.php:26]
+---------------------------------------------------------------
+[ 2020-05-16T10:38:27+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.038081s][吞吐率：26.26req/s] [内存消耗：1,666.78kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\data_test\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:38:44+08:00 ] 127.0.0.1 GET /admin/DataTest/text
+[ info ] ccc.tp51.cn/admin/DataTest/text [运行时间：0.013783s][吞吐率：72.55req/s] [内存消耗：1,027.38kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:38:52+08:00 ] 127.0.0.1 GET /admin/Data_test/text
+[ info ] ccc.tp51.cn/admin/Data_test/text [运行时间：0.041752s][吞吐率：23.95req/s] [内存消耗：1,666.27kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\data_test\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:39:28+08:00 ] 127.0.0.1 GET /admin/DataTest/text
+[ info ] ccc.tp51.cn/admin/DataTest/text [运行时间：0.021622s][吞吐率：46.25req/s] [内存消耗：1,027.38kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:40:01+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.013253s][吞吐率：75.45req/s] [内存消耗：1,027.38kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:40:15+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.023412s][吞吐率：42.71req/s] [内存消耗：1,027.77kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:40:17+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.016154s][吞吐率：61.90req/s] [内存消耗：1,027.77kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:40:36+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.023309s][吞吐率：42.90req/s] [内存消耗：1,027.77kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:41:11+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.035578s][吞吐率：28.11req/s] [内存消耗：1,666.74kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:42:45+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.037584s][吞吐率：26.61req/s] [内存消耗：1,666.74kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:42:46+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.028863s][吞吐率：34.65req/s] [内存消耗：1,666.74kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:42:47+08:00 ] 127.0.0.1 GET /admin/Datatest/text
+[ info ] ccc.tp51.cn/admin/Datatest/text [运行时间：0.032875s][吞吐率：30.42req/s] [内存消耗：1,666.74kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:42:53+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.028653s][吞吐率：34.90req/s] [内存消耗：1,666.23kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:42:54+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.028368s][吞吐率：35.25req/s] [内存消耗：1,666.74kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:43:00+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.032798s][吞吐率：30.49req/s] [内存消耗：1,666.74kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:44:57+08:00 ] 127.0.0.1 GET /admin/datatest/
+[ info ] ccc.tp51.cn/admin/datatest/ [运行时间：0.039280s][吞吐率：25.46req/s] [内存消耗：2,552.05kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001065s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001017s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000403s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:45:04+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.038995s][吞吐率：25.64req/s] [内存消耗：1,666.23kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:45:23+08:00 ] 127.0.0.1 GET /admin/datatest
+[ info ] ccc.tp51.cn/admin/datatest [运行时间：0.053863s][吞吐率：18.57req/s] [内存消耗：2,552.05kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000840s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000949s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000366s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:46:18+08:00 ] 127.0.0.1 GET /admin/datatest
+[ info ] ccc.tp51.cn/admin/datatest [运行时间：0.033106s][吞吐率：30.21req/s] [内存消耗：2,552.45kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000852s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001504s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000482s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:46:23+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.028466s][吞吐率：35.13req/s] [内存消耗：1,666.23kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:47:12+08:00 ] 127.0.0.1 GET /admin/datatest/goody
+[ info ] ccc.tp51.cn/admin/datatest/goody [运行时间：0.030085s][吞吐率：33.24req/s] [内存消耗：1,666.30kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\goody.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:47:47+08:00 ] 127.0.0.1 GET /admin/datatest/goody
+[ info ] ccc.tp51.cn/admin/datatest/goody [运行时间：0.023702s][吞吐率：42.19req/s] [内存消耗：1,666.88kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\goody.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:47:49+08:00 ] 127.0.0.1 GET /admin/datatest/goody
+[ info ] ccc.tp51.cn/admin/datatest/goody [运行时间：0.021537s][吞吐率：46.43req/s] [内存消耗：1,666.88kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\goody.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:47:52+08:00 ] 127.0.0.1 GET /admin/datatest/goody
+[ info ] ccc.tp51.cn/admin/datatest/goody [运行时间：0.021540s][吞吐率：46.43req/s] [内存消耗：1,666.88kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\goody.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:47:54+08:00 ] 127.0.0.1 GET /admin/datatest/goody
+[ info ] ccc.tp51.cn/admin/datatest/goody [运行时间：0.032390s][吞吐率：30.87req/s] [内存消耗：1,666.88kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\goody.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:49:25+08:00 ] 127.0.0.1 GET /admin/login/tow
+[ info ] ccc.tp51.cn/admin/login/tow [运行时间：0.022740s][吞吐率：43.98req/s] [内存消耗：1,229.60kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:49:31+08:00 ] 127.0.0.1 GET /admin/login
+[ info ] ccc.tp51.cn/admin/login [运行时间：0.019772s][吞吐率：50.58req/s] [内存消耗：1,241.33kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\login\index.html [ array (
+  0 => 'res1',
+  1 => 'res2',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:49:50+08:00 ] 127.0.0.1 GET /admin/login
+[ info ] ccc.tp51.cn/admin/login [运行时间：0.033639s][吞吐率：29.73req/s] [内存消耗：1,241.72kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\login\index.html [ array (
+  0 => 'res1',
+  1 => 'res2',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:49:57+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.019556s][吞吐率：51.14req/s] [内存消耗：1,027.43kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:50:48+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.015790s][吞吐率：63.33req/s] [内存消耗：1,027.82kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:50:49+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.015774s][吞吐率：63.40req/s] [内存消耗：1,027.82kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:50:51+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.013045s][吞吐率：76.66req/s] [内存消耗：1,027.82kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:50:59+08:00 ] 127.0.0.1 GET /admin/datatext/goody
+[ info ] ccc.tp51.cn/admin/datatext/goody [运行时间：0.018422s][吞吐率：54.28req/s] [内存消耗：1,027.45kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:52:35+08:00 ] 127.0.0.1 GET /admin/datatex
+[ info ] ccc.tp51.cn/admin/datatex [运行时间：0.019888s][吞吐率：50.28req/s] [内存消耗：1,027.42kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:53:34+08:00 ] 127.0.0.1 GET /admin/datatex
+[ info ] ccc.tp51.cn/admin/datatex [运行时间：0.016186s][吞吐率：61.78req/s] [内存消耗：1,027.81kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:53:39+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.023163s][吞吐率：43.17req/s] [内存消耗：1,027.43kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:53:41+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.012836s][吞吐率：77.91req/s] [内存消耗：1,027.82kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:53:42+08:00 ] 127.0.0.1 GET /admin/datatext
+[ info ] ccc.tp51.cn/admin/datatext [运行时间：0.028291s][吞吐率：35.35req/s] [内存消耗：1,027.82kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:53:58+08:00 ] 127.0.0.1 GET /admin/datatest
+[ info ] ccc.tp51.cn/admin/datatest [运行时间：0.039935s][吞吐率：25.04req/s] [内存消耗：2,552.15kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001151s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001176s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000381s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:54:01+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.030374s][吞吐率：32.92req/s] [内存消耗：1,279.20kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T10:54:11+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.029318s][吞吐率：34.11req/s] [内存消耗：1,666.80kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:55:55+08:00 ] 127.0.0.1 GET /admin/datatest
+[ info ] ccc.tp51.cn/admin/datatest [运行时间：0.060704s][吞吐率：16.47req/s] [内存消耗：2,552.12kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010598s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.002092s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000560s ]
+---------------------------------------------------------------
+[ 2020-05-16T10:56:05+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.025767s][吞吐率：38.81req/s] [内存消耗：1,666.29kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T10:58:49+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.032793s][吞吐率：30.49req/s] [内存消耗：1,818.98kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'item' (T_STRING)[D:\phpstudy_pro\WWW\tp5.1\runtime\temp\55ec181dfa8522d665302a17c954c899.php:3]
+---------------------------------------------------------------
+[ 2020-05-16T10:59:55+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.033598s][吞吐率：29.76req/s] [内存消耗：1,817.84kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'item' (T_STRING), expecting '('[D:\phpstudy_pro\WWW\tp5.1\runtime\temp\55ec181dfa8522d665302a17c954c899.php:3]
+---------------------------------------------------------------
+[ 2020-05-16T11:00:21+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.041915s][吞吐率：23.86req/s] [内存消耗：1,755.76kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T11:01:26+08:00 ] 127.0.0.1 GET /admin/datatest
+[ info ] ccc.tp51.cn/admin/datatest [运行时间：0.052253s][吞吐率：19.14req/s] [内存消耗：2,547.96kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001335s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001300s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000390s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:02:05+08:00 ] 127.0.0.1 GET /admin/datatest
+[ info ] ccc.tp51.cn/admin/datatest [运行时间：0.040182s][吞吐率：24.89req/s] [内存消耗：2,547.72kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000946s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001293s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:02:10+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.029169s][吞吐率：34.28req/s] [内存消耗：1,553.84kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T11:03:07+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.042608s][吞吐率：23.47req/s] [内存消耗：2,547.90kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000914s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.006904s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000604s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:03:07+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.034917s][吞吐率：28.64req/s] [内存消耗：2,547.90kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000767s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000883s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000387s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:03:12+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.041935s][吞吐率：23.85req/s] [内存消耗：2,547.90kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000882s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001152s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000884s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:03:24+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.039181s][吞吐率：25.52req/s] [内存消耗：2,563.49kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000869s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001112s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000376s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:03:37+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.050574s][吞吐率：19.77req/s] [内存消耗：2,689.55kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000805s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000816s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000276s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:06:55+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.063431s][吞吐率：15.77req/s] [内存消耗：2,690.23kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.014200s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001367s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:07:03+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.042507s][吞吐率：23.53req/s] [内存消耗：2,690.24kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000894s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000922s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000283s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:07:27+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.049157s][吞吐率：20.34req/s] [内存消耗：2,690.30kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001939s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000970s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000353s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:07:38+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.047421s][吞吐率：21.09req/s] [内存消耗：2,690.30kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000906s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000813s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000389s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:07:44+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.055041s][吞吐率：18.17req/s] [内存消耗：2,690.30kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000988s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000944s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000259s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:08:24+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.049333s][吞吐率：20.27req/s] [内存消耗：2,690.52kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000937s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.000770s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000270s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:08:50+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.051695s][吞吐率：19.34req/s] [内存消耗：2,690.53kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001053s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001136s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000297s ]
+---------------------------------------------------------------
+[ 2020-05-16T11:30:22+08:00 ] 127.0.0.1 GET /admin/datatest/text
+[ info ] ccc.tp51.cn/admin/datatest/text [运行时间：0.036585s][吞吐率：27.33req/s] [内存消耗：2,563.80kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\datatest\text.html [ array (
+  0 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001787s ] mysql:host=127.0.0.1;dbname=Myku;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_name` [ RunTime:0.001013s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_name` [ RunTime:0.000409s ]
+---------------------------------------------------------------
+[ 2020-05-16T14:49:11+08:00 ] 127.0.0.1 GET /admin/Initialize
+[ info ] ccc.tp51.cn/admin/Initialize [运行时间：0.037807s][吞吐率：26.45req/s] [内存消耗：1,028.84kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\Initialize::fecth()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\Initialize.php:9]
+---------------------------------------------------------------
+[ 2020-05-16T14:49:32+08:00 ] 127.0.0.1 GET /admin/Initialize
+[ info ] ccc.tp51.cn/admin/Initialize [运行时间：0.048109s][吞吐率：20.79req/s] [内存消耗：1,029.33kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\Initialize::fetch()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\Initialize.php:9]
+---------------------------------------------------------------
+[ 2020-05-16T14:49:46+08:00 ] 127.0.0.1 GET /admin/Initialize
+[ info ] ccc.tp51.cn/admin/Initialize [运行时间：0.027067s][吞吐率：36.95req/s] [内存消耗：1,062.99kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function fetch() on null[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\Controller.php:123]
+---------------------------------------------------------------
+[ 2020-05-16T14:49:54+08:00 ] 127.0.0.1 GET /admin/Initialize
+[ info ] ccc.tp51.cn/admin/Initialize [运行时间：0.022279s][吞吐率：44.89req/s] [内存消耗：1,063.18kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\Initialize::fecth()[D:\phpstudy_pro\WWW\tp5.1\application\admin\controller\Initialize.php:9]
+---------------------------------------------------------------
+[ 2020-05-16T14:50:07+08:00 ] 127.0.0.1 GET /admin/Initialize
+[ info ] ccc.tp51.cn/admin/Initialize [运行时间：0.026325s][吞吐率：37.99req/s] [内存消耗：1,062.99kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function fetch() on null[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\Controller.php:123]
+---------------------------------------------------------------
+[ 2020-05-16T14:50:53+08:00 ] 127.0.0.1 GET /admin/Initialize/loginSucceed
+[ info ] ccc.tp51.cn/admin/Initialize/loginSucceed [运行时间：0.030279s][吞吐率：33.03req/s] [内存消耗：1,273.86kb] [文件加载：55]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/admin/view\initialize\loginsucceed.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-05-16T14:51:29+08:00 ] 127.0.0.1 GET /admin/Initialize/loginSucceed
+[ info ] ccc.tp51.cn/admin/Initialize/loginSucceed [运行时间：0.038883s][吞吐率：25.72req/s] [内存消耗：1,499.28kb] [文件加载：57]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/admin/view\initialize\loginsucceed.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-05-16T15:02:48+08:00 ] 127.0.0.1 GET /admin/Initialize/loginSucceed
+[ info ] ccc.tp51.cn/admin/Initialize/loginSucceed [运行时间：0.030464s][吞吐率：32.83req/s] [内存消耗：1,226.55kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=3164481536',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File

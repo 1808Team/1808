@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2020-07-06T11:12:04+08:00 ] 127.0.0.1 GET /
+[ info ] shop.cn/ [运行时间：0.061522s][吞吐率：16.25req/s] [内存消耗：1,476.93kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4366452736',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shop.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-07-06T14:35:39+08:00 ] 127.0.0.1 GET /
+[ info ] shop.cn/ [运行时间：0.029783s][吞吐率：33.58req/s] [内存消耗：1,476.10kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4366452736',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shop.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]

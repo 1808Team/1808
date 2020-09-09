@@ -1,0 +1,1604 @@
+---------------------------------------------------------------
+[ 2020-08-24T08:55:07+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.050012s][吞吐率：20.00req/s] [内存消耗：1,372.56kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T15:18:46+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.058820s][吞吐率：17.00req/s] [内存消耗：1,154.93kb] [文件加载：55]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'var_dump' (T_STRING)[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:20]
+---------------------------------------------------------------
+[ 2020-08-24T15:18:51+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.045850s][吞吐率：21.81req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:18:57+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.037381s][吞吐率：26.75req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:19:05+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.043710s][吞吐率：22.88req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:19:05+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.039284s][吞吐率：25.46req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:19:43+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.031070s][吞吐率：32.19req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:19:44+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.028568s][吞吐率：35.00req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:19:44+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.032407s][吞吐率：30.86req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:19:57+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.030657s][吞吐率：32.62req/s] [内存消耗：1,372.83kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T15:21:06+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.035438s][吞吐率：28.22req/s] [内存消耗：1,486.11kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Non-static method PDO::setAttribute() cannot be called statically[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:18]
+---------------------------------------------------------------
+[ 2020-08-24T15:21:17+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.030416s][吞吐率：32.88req/s] [内存消耗：1,372.95kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T15:29:12+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.041761s][吞吐率：23.95req/s] [内存消耗：1,373.20kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T15:29:37+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.043104s][吞吐率：23.20req/s] [内存消耗：1,481.55kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [42S02]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'myku.sasda' doesn't exist[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:22]
+---------------------------------------------------------------
+[ 2020-08-24T15:29:52+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.047151s][吞吐率：21.21req/s] [内存消耗：1,372.99kb] [文件加载：58]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T15:29:59+08:00 ] 127.0.0.1 GET /index/index/pdos
+[ info ] ccc.tp51.cn/index/index/pdos [运行时间：0.033263s][吞吐率：30.06req/s] [内存消耗：1,481.55kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [42S02]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'myku.sasda' doesn't exist[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:23]
+---------------------------------------------------------------
+[ 2020-08-24T15:31:56+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.039044s][吞吐率：25.61req/s] [内存消耗：1,486.30kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\PDO' not found[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:27]
+---------------------------------------------------------------
+[ 2020-08-24T16:33:06+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.044961s][吞吐率：22.24req/s] [内存消耗：1,486.30kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\PDO' not found[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:27]
+---------------------------------------------------------------
+[ 2020-08-24T16:44:49+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.032441s][吞吐率：30.83req/s] [内存消耗：1,486.28kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\Smarty' not found[D:\phpstudy_pro\WWW\tp5.1\application\index\controller\Index.php:28]
+---------------------------------------------------------------
+[ 2020-08-24T16:57:37+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.019902s][吞吐率：50.25req/s] [内存消耗：678.61kb] [文件加载：41]
+[ error ] [2]Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP)[D:\phpstudy_pro\WWW\tp5.1\config\template.php:24]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T16:57:58+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.045122s][吞吐率：22.16req/s] [内存消耗：1,206.10kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T16:59:13+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.028809s][吞吐率：34.71req/s] [内存消耗：1,206.38kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T16:59:14+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.026628s][吞吐率：37.55req/s] [内存消耗：1,206.38kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:04:11+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.028742s][吞吐率：34.79req/s] [内存消耗：1,206.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class.php' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:04:17+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.042757s][吞吐率：23.39req/s] [内存消耗：1,206.36kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:04:18+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.032921s][吞吐率：30.38req/s] [内存消耗：1,206.36kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:04:18+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.024311s][吞吐率：41.13req/s] [内存消耗：1,206.36kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:04:38+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.036394s][吞吐率：27.48req/s] [内存消耗：1,380.07kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/bootstrap.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:81]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:03+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.047631s][吞吐率：20.99req/s] [内存消耗：1,380.07kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/bootstrap.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:81]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:04+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.030298s][吞吐率：33.01req/s] [内存消耗：1,380.07kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/bootstrap.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:81]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:11+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.033953s][吞吐率：29.45req/s] [内存消耗：1,380.07kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/bootstrap.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:81]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:11+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.023698s][吞吐率：42.20req/s] [内存消耗：1,380.07kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/bootstrap.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:81]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:12+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.034753s][吞吐率：28.77req/s] [内存消耗：1,380.07kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/bootstrap.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:81]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:37+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.034559s][吞吐率：28.94req/s] [内存消耗：1,380.38kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/Autoloader.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\bootstrap.php:14]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:38+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.025275s][吞吐率：39.56req/s] [内存消耗：1,380.38kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver/Autoloader.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\bootstrap.php:14]
+---------------------------------------------------------------
+[ 2020-08-24T17:07:58+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.035937s][吞吐率：27.83req/s] [内存消耗：1,879.51kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:08:26+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.045850s][吞吐率：21.81req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:08:27+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.036748s][吞吐率：27.21req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:08:28+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.031729s][吞吐率：31.52req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:08:28+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.031347s][吞吐率：31.90req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:08:32+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.048705s][吞吐率：20.53req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:08:37+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.053155s][吞吐率：18.81req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:00+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.050739s][吞吐率：19.71req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:00+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.043137s][吞吐率：23.18req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:07+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.043630s][吞吐率：22.92req/s] [内存消耗：1,380.13kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [2]include(D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Autoloader.php): failed to open stream: No such file or directory[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\bootstrap.php:14]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:19+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.025117s][吞吐率：39.81req/s] [内存消耗：1,403.63kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]main(): Failed opening required 'D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\sysplugins\smarty_internal_data.php' (include_path='.;C:\php\pear')[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:86]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:40+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.031599s][吞吐率：31.65req/s] [内存消耗：1,206.10kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:50+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.035743s][吞吐率：27.98req/s] [内存消耗：1,206.09kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:11:51+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.029157s][吞吐率：34.30req/s] [内存消耗：1,206.09kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:12:08+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.032809s][吞吐率：30.48req/s] [内存消耗：1,206.09kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty.class' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:12:14+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.043841s][吞吐率：22.81req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:12:44+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.022268s][吞吐率：44.91req/s] [内存消耗：678.61kb] [文件加载：41]
+[ error ] [2]Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP)[D:\phpstudy_pro\WWW\tp5.1\config\template.php:24]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:12:45+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.016939s][吞吐率：59.04req/s] [内存消耗：678.61kb] [文件加载：41]
+[ error ] [2]Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP)[D:\phpstudy_pro\WWW\tp5.1\config\template.php:24]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:12:52+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.037479s][吞吐率：26.68req/s] [内存消耗：1,879.27kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot declare class Smarty, because the name is already in use[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Smarty.php:1425]
+---------------------------------------------------------------
+[ 2020-08-24T17:16:13+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.041432s][吞吐率：24.14req/s] [内存消耗：1,206.10kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class '\think\view\driver\Smarty' not found[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\View.php:105]
+---------------------------------------------------------------
+[ 2020-08-24T17:16:24+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.043700s][吞吐率：22.88req/s] [内存消耗：1,484.33kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/index/view\index\index.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-08-24T17:16:34+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.041601s][吞吐率：24.04req/s] [内存消耗：1,581.19kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:16:56+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.028738s][吞吐率：34.80req/s] [内存消耗：1,375.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:16:56+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.026068s][吞吐率：38.36req/s] [内存消耗：1,375.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:16:57+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.024449s][吞吐率：40.90req/s] [内存消耗：1,375.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:16:57+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.025469s][吞吐率：39.26req/s] [内存消耗：1,375.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:18:12+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.043082s][吞吐率：23.21req/s] [内存消耗：1,375.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:18:24+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.037849s][吞吐率：26.42req/s] [内存消耗：1,375.37kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T17:18:36+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.035003s][吞吐率：28.57req/s] [内存消耗：1,581.25kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T18:53:20+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.035440s][吞吐率：28.22req/s] [内存消耗：1,581.83kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T18:57:54+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.037706s][吞吐率：26.52req/s] [内存消耗：1,583.86kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:01:39+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.036051s][吞吐率：27.74req/s] [内存消耗：1,376.26kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:01:47+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.048806s][吞吐率：20.49req/s] [内存消耗：1,583.98kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:02:21+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.040562s][吞吐率：24.65req/s] [内存消耗：1,584.48kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:08:45+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.046024s][吞吐率：21.73req/s] [内存消耗：1,584.48kb] [文件加载：61]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:08:46+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.041187s][吞吐率：24.28req/s] [内存消耗：1,376.38kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:08:46+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.027661s][吞吐率：36.15req/s] [内存消耗：1,376.38kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T19:08:46+08:00 ] 127.0.0.1 GET /index/index/pdossc
+[ info ] ccc.tp51.cn/index/index/pdossc [运行时间：0.025545s][吞吐率：39.15req/s] [内存消耗：1,376.38kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; pgv_pvi=3933973504; thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'ccc.tp51.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html [ array (
+  0 => 'name',
+  1 => 'age',
+) ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File

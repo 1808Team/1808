@@ -1,0 +1,61 @@
+---------------------------------------------------------------
+[ 2020-06-28T09:11:33+08:00 ] 127.0.0.1 GET &uk=207157880&cfg=p2p_switch_param
+[ info ] &uk=207157880&cfg=p2p_switch_param [运行时间：0.037036s][吞吐率：27.00req/s] [内存消耗：1,149.98kb] [文件加载：55]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'user-agent' => 'netdisk;P2SP;2.2.70.32',
+  'host' => '',
+  'cookie' => 'BDUSS=p5LTlaWH50T2ZSV3pRNVkxLTZ1OEpxeFZkWUVMV1BIa0RDVVNWZDVMczZleDlmRVFBQUFBJCQAAAAAAAAAAAEAAAC0DKdcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADru91467vdebF;STOKEN=3b3d2222d8bb1f2c016ed8bb88fbdf4f40b6f2a1a8f2bb9756eb1093f7e4c40b;',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '70',
+  'accept-language' => 'zh-CN',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-06-28T17:10:12+08:00 ] 127.0.0.1 GET /
+[ info ] shop/ [运行时间：0.062925s][吞吐率：15.89req/s] [内存消耗：1,475.38kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2020-06-28T17:14:20+08:00 ] 127.0.0.1 GET /
+[ info ] shop/ [运行时间：0.039566s][吞吐率：25.27req/s] [内存消耗：1,475.72kb] [文件加载：62]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp5.1\thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'shop',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp5.1\application/index/view\.\index.html[D:\phpstudy_pro\WWW\tp5.1\thinkphp\library\think\view\driver\Think.php:80]
