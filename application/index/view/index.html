@@ -5,6 +5,8 @@
         <meta name="author" content="order by dede58.com"/>
 		<title>小米商城</title>
 		<link rel="stylesheet" type="text/css" href="__CSS__/style.css">
+		<script src="__JQ__/jquery.min.js"></script>
+		<script src="/static/layer/layer.js"></script>
 	</head>
 	<body>
 	<!-- start header -->
@@ -38,7 +40,12 @@
 					<div class="gouwuche fr"><a href="/Index/Catshop/index"  target="_blank">购物车</a></div>
 					<div class="fr">
 						<ul>
-							<li><a href="/Index/index/login" target="_blank">登录</a></li>
+							{if empty($root)}
+							<li><a href="/Index/index/login" target="_blank">登录
+							{else/}
+							<li><a href="/Index/index/selfinfo" target="_blank">{$root}
+							{/if}
+							</a></li>
 							<li>|</li>
 							<li><a href="/Index/index/register" target="_blank" >注册</a></li>
 							<li>|</li>
@@ -1401,37 +1408,14 @@
 			
 			<div class="biaoti center">小米明星单品</div>
 			<div class="main center">
+				{foreach $rows as $v}
 				<div class="mingxing fl">
-					<div class="sub_mingxing"><a href=""><img src="__IMG__/pinpai1.png" alt=""></a></div>
-					<div class="pinpai"><a href="">小米MIX</a></div>
-					<div class="youhui">5月9日-21日享花呗12期分期免息</div>
-					<div class="jiage">3499元起</div>
+					<div class="sub_mingxing"><a href="index/index/details?id={$v.id}"><img src="{$v.img}" alt=""></a></div>
+					<div class="pinpai"><a href="index/index/details?id={$v.id}">{$v.name}</a></div>
+					<div class="youhui">{$v.synopsis}</div>
+					<div class="jiage">{$v.price}元起</div>
 				</div>
-				<div class="mingxing fl">
-					<div class="sub_mingxing"><a href=""><img src="__IMG__/pinpai2.png" alt=""></a></div>
-					<div class="pinpai"><a href="">小米5s</a></div>
-					<div class="youhui">5月9日-10日，下单立减200元</div>
-					<div class="jiage">1999元</div>
-				</div>
-				<div class="mingxing fl">
-					<div class="sub_mingxing"><a href=""><img src="__IMG__/pinpai3.png" alt=""></a></div>
-					<div class="pinpai"><a href="">小米手机5 64GB</a></div>
-					<div class="youhui">5月9日-10日，下单立减100元</div>
-					<div class="jiage">1799元</div>
-				</div>
-				<div class="mingxing fl"> 	
-					<div class="sub_mingxing"><a href=""><img src="__IMG__/pinpai4.png" alt=""></a></div>
-					<div class="pinpai"><a href="">小米电视3s 55英寸</a></div>
-					<div class="youhui">5月9日，下单立减200元</div>
-					<div class="jiage">3999元</div>
-				</div>
-				<div class="mingxing fl">
-					<div class="sub_mingxing"><a href=""><img src="__IMG__/pinpai5.png" alt=""></a></div>
-					<div class="pinpai"><a href="">小米笔记本</a></div>
-					<div class="youhui">更轻更薄，像杂志一样随身携带</div>
-					<div class="jiage">3599元起</div>
-				</div>
-				<div class="clear"></div>
+				{/foreach}
 			</div>
 		</div>
 		<div class="peijian w">

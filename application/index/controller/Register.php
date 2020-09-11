@@ -3,7 +3,6 @@
 
     use think\Controller;
     use app\index\Model\admin;
-    use module\Redis;
 
     class Register extends Controller
     {
@@ -23,7 +22,7 @@
          * @return string
          */
         public function captcha(){
-
+			$redis= new \Redis()
             for($i=0;$i<=4;$i++){
                 $rand = rand(0,10);
                 $this->captcha .= $rand;
@@ -31,7 +30,7 @@
             /**
              * 验证码 存入 redis 5 分钟后删除 未删除再次存入 替换
              */
-            redis()->set('captcha',$this->captcha,300);
+            $redis->set('captcha',$this->captcha,300);
            return  $this->captcha;
         }
 
