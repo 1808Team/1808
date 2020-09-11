@@ -9,7 +9,6 @@
 // | Author: 流年 <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-// 应用公共文件
 /**
  * 链接PDO
  * @return PDO|string
@@ -57,4 +56,63 @@ function JudgePhone($phone){
         }
         return false;
     }
+}
+function messageSms($phone,$Code){
+    include_once("../extend/SDK/CCPRestSDK.php");
+// 应用公共文件
+    /**
+     * 发送模板短信
+     * @param to 手机号码集合,用英文逗号分开
+     * @param datas 内容数据 格式为数组 例如：array('Marry','Alon')，如不需替换请填 null
+     * @param $tempId 模板Id
+     */
+    function sendTemplateSMS($to,$datas,$tempId)
+    {
+        //主帐号
+        $accountSid = '8a216da874762af20174771f6f1400b6';
+
+//主帐号Token
+        $accountToken = '3f90828bbf2c40dbabef52afdaffc300';
+
+//应用Id
+        $appId ='8a216da874762af20174771f6fef00bc';
+
+//请求地址，格式如下，不需要写https://
+        $serverIP = 'app.cloopen.com';
+
+//请求端口
+        $serverPort = '8883';
+
+//REST版本号
+        $softVersion = '2013-12-26';
+        // 初始化REST SDK
+        $rest = new REST($serverIP,$serverPort,$softVersion);
+        $rest->setAccount($accountSid,$accountToken);
+        $rest->setAppId($appId);
+
+        // 发送模板短信
+        echo "Sending TemplateSMS to $to <br/>";
+        $result = $rest->sendTemplateSMS($to,$datas,$tempId);
+        if($result == NULL ) {
+            echo "result error!";
+            // break;
+        }
+        if($result->statusCode!=0) {
+            echo "error code :" . $result->statusCode . "<br>";
+            echo "error msg :" . $result->statusMsg . "<br>";
+            //TODO 添加错误处理逻辑
+        }else{
+            echo "Sendind TemplateSMS success!<br/>";
+            // 获取返回信息
+            $smsmessage = $result->TemplateSMS;
+            echo "dateCreated:".$smsmessage->dateCreated."<br/>";
+            echo "smsMessageSid:".$smsmessage->smsMessageSid."<br/>";
+            //TODO 添加成功处理逻辑
+        }
+    }
+
+//Demo调用,参数填入正确后，放开注释可以调用
+    // sendTemplateSMS($phone,$Code,1);
+
+   //return sendTemplateSMS($phone,$Code,1);
 }

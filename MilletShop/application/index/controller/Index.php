@@ -35,5 +35,9 @@ class Index extends Controller
                 echo $arr['msg'];
             }
     }
+    public function text(){
+        $Code = ['111111',5];
+       return  messageSms(18774265532,$Code);
+    }
 }
 
