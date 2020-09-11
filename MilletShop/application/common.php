@@ -69,13 +69,13 @@ function messageSms($phone,$Code){
     function sendTemplateSMS($to,$datas,$tempId)
     {
         //主帐号
-        $accountSid = '8a216da874762af20174771f6f1400b6';
+        $accountSid = '8a216da874762af20174772c1e3b0159';
 
 //主帐号Token
-        $accountToken = '3f90828bbf2c40dbabef52afdaffc300';
+        $accountToken = '00504f408f754b9d8c67189083095a8e';
 
 //应用Id
-        $appId ='8a216da874762af20174771f6fef00bc';
+        $appId ='8a216da874762af20174772c1f720160';
 
 //请求地址，格式如下，不需要写https://
         $serverIP = 'app.cloopen.com';
@@ -91,7 +91,7 @@ function messageSms($phone,$Code){
         $rest->setAppId($appId);
 
         // 发送模板短信
-        echo "Sending TemplateSMS to $to <br/>";
+     
         $result = $rest->sendTemplateSMS($to,$datas,$tempId);
         if($result == NULL ) {
             echo "result error!";
@@ -102,11 +102,7 @@ function messageSms($phone,$Code){
             echo "error msg :" . $result->statusMsg . "<br>";
             //TODO 添加错误处理逻辑
         }else{
-            echo "Sendind TemplateSMS success!<br/>";
-            // 获取返回信息
-            $smsmessage = $result->TemplateSMS;
-            echo "dateCreated:".$smsmessage->dateCreated."<br/>";
-            echo "smsMessageSid:".$smsmessage->smsMessageSid."<br/>";
+            return  json(['code'=>0,'msg'=>"验证码已发送",'data'=>""]);
             //TODO 添加成功处理逻辑
         }
     }
@@ -114,5 +110,5 @@ function messageSms($phone,$Code){
 //Demo调用,参数填入正确后，放开注释可以调用
     // sendTemplateSMS($phone,$Code,1);
 
-   //return sendTemplateSMS($phone,$Code,1);
+   return sendTemplateSMS($phone,$Code,1);
 }
