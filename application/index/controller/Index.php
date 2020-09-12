@@ -2,14 +2,14 @@
 namespace app\index\controller;
 
 use think\Controller;
-use app\index\model\Shopcat;
+use app\index\model\shopcat;
 class Index extends Controller
 {
 
     public function index()
     {
-		$shopcat=new Shopcat();
-		$rows=$shopcat->ShowData(null);
+		$shopcat = new shopcat();
+		$rows = $shopcat->ShowData(null);
 		$this->assign("root",session('root'));
 		$this->assign("rows",$rows);
         return $this->fetch("./index");

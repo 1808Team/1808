@@ -22,7 +22,8 @@
          * @return string
          */
         public function captcha(){
-			$redis= new \Redis()
+			$redis= new \Redis();
+			$redis->connect('127.0.0.1');
             for($i=0;$i<=4;$i++){
                 $rand = rand(0,10);
                 $this->captcha .= $rand;

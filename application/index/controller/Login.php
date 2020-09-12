@@ -37,7 +37,7 @@
                 if( $result ){
                     $this->arr['code'] = 1;
                     $this->arr['msg'] = lang('Login');//lang
-                    $this->arr['data'] = "Index/Home/index";
+                    $this->arr['data'] = "/Index/index/index";
                     Session::set('root',$root);
                     Session::set('id',$result['id']);
                     return   $this->arr;
@@ -78,7 +78,7 @@
 			$jies->connect('127.0.0.1');
 			$zhi = $jies->get($tel);
 			if($zhi == $cod){
-				return json(['code'=>0,'msg'=>"验证码正确",'data'=>"index/index/index"]);
+				return json(['code'=>0,'msg'=>"验证码正确",'data'=>"/index/index/index"]);
 			}else{
 				return json(['code'=>0,'msg'=>"验证码错误",'data'=>""]);
 			}
