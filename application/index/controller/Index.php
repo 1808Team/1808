@@ -143,10 +143,8 @@ class Index extends Controller
     public function xianqing(){
         return $this->fetch("./xiangqing");
     }
-	//渲染个人中心
-	public function selfinfo(){
-		return $this->fetch("./self_info");
-	}
+	
+	
 
 }
 
