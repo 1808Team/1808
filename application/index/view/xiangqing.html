@@ -125,7 +125,7 @@
 			{foreach $editionData as $v }
 				<div name='edition' data-id="{$v.id}" data-money='{$v.money}' class="banben fl" style='margin-bottom:10px;' onclick="edition({$v.id},'{$v.configure}',{$v.money},{$v.count})">
 					<a>
-						<span>{$v.configure} </span>
+						<span id="{$v.id}">{$v.configure} </span>
 						<span>{$v.money}元</span>
 					</a>
 				</div>
@@ -151,7 +151,7 @@
 				<div class="bot mt20 ft20 ftbc" id='count'>总计：2499元</div>
 			</div>
 			<div class="xiadan ml20 mt20">
-					<input class="jrgwc"  type="button" name="jrgwc" value="立即选购" />
+					<input class="jrgwc"  type="button" name="jrgwc" value="立即选购" onclick="buy()"/>
 					<input class="jrgwc" id='shopping' type="button" name="jrgwc" value="加入购物车" />
 				
 			</div>
@@ -257,5 +257,30 @@ function edition(id,configure,money,count){
 				}
 			});
 		})
+
+			function buy() {
+				if($("#editionid").text()==""){
+					layer.msg('请选择版本',{icon:5});
+					return
+				}
+				if($("#colorid").text()==""){
+					layer.msg('请选择颜色',{icon:5});
+					return
+				}
+				editionid=$("#editionid").data("id");
+				colorid=$("#colorid").data("id");
+				$.ajax({
+					type:'post',
+					url:"/index/index/buy",
+					data:{editionid:editionid,colorid:colorid},
+					success:function (data) {
+						if(data.code == 1){
+							layer.msg(data.msg,{icon:1});
+						}else{
+							layer.msg(data.msg,{icon:2});
+						}
+					}
+				})
+			}
 </script>
 </html>

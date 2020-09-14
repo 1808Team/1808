@@ -2,7 +2,7 @@
     namespace app\index\controller;
 
     use think\Controller;
-    use app\index\model\shopcatModel;
+    use app\index\model\ShopcatModel;
     use think\facade\Session;
     class Catshop extends Controller/**/
     {
@@ -12,7 +12,7 @@
             if( $arr ){
                $this->assign('ShopCatData',$arr);
             }else{
-                return $this->fetch('./login');
+                return $this->fetch('user/login');
                 //没有数据跳转403页面
             }
             return $this->fetch('./gouwuche');
@@ -23,7 +23,7 @@
                 GotoLogin();
                 return false;
             }
-            $this->shopcatModel = new shopcatModel();
+            $this->shopcatModel = new ShopcatModel();
             $where = [
               "pid" => $id,
             ];

@@ -127,6 +127,33 @@ class Index extends Controller
             }
         }
 	}
+
+	public function buy(){
+       $edition_id = input('post.editionid');
+       $color_id = input('post.colorid');
+       $row = $this->ShopcatModel->buy($edition_id,$color_id);
+       if($row == 1){
+           return json([
+               'code'   =>1,
+               'msg'    =>'购买成功',
+               'data'   => ""
+           ]);
+       }else if($row == 2){
+           return json([
+               'code'   =>2,
+               'msg'    =>'库存不够',
+               'data'   => ""
+           ]);
+       }else{
+           return json([
+               'code'   =>3,
+               'msg'    =>'购买失败',
+               'data'   => ""
+           ]);
+       }
+    }
+
+
 	public function tellogin(){
 		return $this->fetch("./tellogin");
 	}
