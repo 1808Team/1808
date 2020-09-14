@@ -2,14 +2,19 @@
 namespace app\index\controller;
 
 use think\Controller;
-use app\index\model\shopcat;
+use app\index\model\ShopcatModel;
 class Index extends Controller
 {
+    protected $ShopcatModel;
+    public function __construct()
+    {
+        parent::__construct();
+        if (is_null($this->ShopcatModel)) $this->ShopcatModel = new ShopcatModel();
+    }
 
     public function index()
     {
-		$shopcat = new shopcat();
-		$rows = $shopcat->ShowData(null);
+		$rows = $this->ShopcatModel->ShowData(null);
 		$this->assign("root",session('root'));
 		$this->assign("rows",$rows);
         return $this->fetch("./index");
@@ -21,11 +26,10 @@ class Index extends Controller
 			$this->error("数据错误","/index/index/index");
 		}
         $where = ['id'=>$id];
-		$shopcat=new Shopcat();
-        $goodsFind = $shopcat->queryGoodsFind($where);
+        $goodsFind = $this->ShopcatModel->queryGoodsFind($where);
 		
         $where2 = ["goods_id"=>$id];
-        $editionData = $shopcat->queryEditionData($where2);
+        $editionData = $this->ShopcatModel->queryEditionData($where2);
         $count = 0;
         foreach ($editionData as $k => &$v) {
             $v['count'] = $count;
@@ -51,8 +55,7 @@ class Index extends Controller
             $where = [
                 'pid'=>$id
             ];
-			$shopcat=new Shopcat();
-            $colorData = $shopcat->queryColorData($where);
+            $colorData = $this->ShopcatModel->queryColorData($where);
             if (count($colorData) != 0) {
                 $count = 0;
                 foreach ($colorData as $k => &$v) {
@@ -87,14 +90,13 @@ class Index extends Controller
                     'data' => ''
                 ]);
             }
-			$shopcat=new Shopcat();
 			$where=[
 				'configure_id'=>$editionid,
 				'color_id'=>$colorid,
 				'pid'=>$id,
 				'buyer'=>session('root')
 			];
-            $count = $shopcat->queryShoppingFirst($where);
+            $count = $this->ShopcatModel->queryShoppingFirst($where);
             if (! empty($count)) {
                 return json([
                     'code' => 1,
@@ -109,7 +111,7 @@ class Index extends Controller
                 'color_id' => $colorid,
                 'purchase_time' => date('Y-m-d H:i:s', time())
             ];
-            $rows = $shopcat->insertShopping($data);
+            $rows = $this->ShopcatModel->insertShopping($data);
             if ($rows) {
                 return json([
                     'code' => 0,
@@ -128,12 +130,6 @@ class Index extends Controller
 	public function tellogin(){
 		return $this->fetch("./tellogin");
 	}
-    public function login(){
-        return $this->fetch("./login");
-    }
-    public function register(){
-        return $this->fetch("./register");
-    }
     public function shopCat(){
         return $this->fetch("./gouwuche");
     }

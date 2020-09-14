@@ -2,7 +2,7 @@
     namespace app\index\controller;
 
     use think\Controller;
-    use app\index\model\shopcat;
+    use app\index\model\shopcatModel;
     use think\facade\Session;
     class Catshop extends Controller/**/
     {
@@ -23,7 +23,7 @@
                 GotoLogin();
                 return false;
             }
-            $this->shopcatModel = new shopcat();
+            $this->shopcatModel = new shopcatModel();
             $where = [
               "pid" => $id,
             ];

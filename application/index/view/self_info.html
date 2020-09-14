@@ -38,9 +38,13 @@
 					<div class="gouwuche fr"><a href="./dingdanzhongxin.html">我的订单</a></div>
 					<div class="fr">
 						<ul>
-							<li><a href="./login.html" target="_blank">登录</a></li>
+							{if empty($Think.Session.root)}
+							<li><a href="/Index/login/index" target="_blank">登录</a></li>
 							<li>|</li>
-							<li><a href="./register.html" target="_blank" >注册</a></li>
+							<li><a href="/Index/register/index" target="_blank" >注册</a></li>
+							{else/}
+							<li><a href="/Index/selfinfo/selfinfo">{$Think.Session.root}</a></li>
+							{/if}
 							<li>|</li>
 							<li><a href="#top">个人中心</a></li>
 						</ul>

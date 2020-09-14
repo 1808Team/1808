@@ -3,7 +3,7 @@
 
     use think\Db;
 
-    class Admin
+    class AdminModel
     {
         /**
          * 判断账号 密码 正确
@@ -23,13 +23,13 @@
          */
         public function Register($Data){
             $res =  Db::name('admin')->insert($Data);
-            if( $res > 0 && $res != 0){
+            if( $res > 0){
                 return true;
             }
             return false;
         }
         public function JudgeAdmin($root){
-            return Db::name("admin")->where(["root"=>$root])->find();
+            return Db::name("admin")->where(["account"=>$root])->find();
         }
     }
 

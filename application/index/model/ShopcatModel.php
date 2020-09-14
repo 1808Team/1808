@@ -4,7 +4,7 @@
     use think\Db;
 	use think\Model;
 
-    class shopcat extends Model
+    class ShopcatModel extends Model
     {
 		//查询全部商品
         public function ShowData($where=null,$table='shopcat'){

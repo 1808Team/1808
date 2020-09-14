@@ -40,9 +40,13 @@
 					<div class="gouwuche fr"><a href="">购物车</a></div>
 					<div class="fr">
 						<ul>
-							<li><a href="/Index/index/login" target="_blank">登录</a></li>
+							{if empty($Think.Session.root)}
+							<li><a href="/Index/login/index" target="_blank">登录</a></li>
 							<li>|</li>
-							<li><a href="/Index/index/register" target="_blank" >注册</a></li>
+							<li><a href="/Index/register/index" target="_blank" >注册</a></li>
+							{else/}
+							<li><a href="/Index/selfinfo/selfinfo">{$Think.Session.root}</a></li>
+							{/if}
 							<li>|</li>
 							<li><a href="">消息通知</a></li>
 						</ul>
