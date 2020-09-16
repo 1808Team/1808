@@ -111,6 +111,14 @@
 						
 						
 						{for start="1" end="4"}
+						 {php}
+						     $count=count($goodsAll2);
+						{/php}
+						{if(empty($count))}
+						    {php}
+						    continue;
+						    {/php}
+						{/if}
 							{if($num==0)}
 							<!-- 最左边 -->					
 							<div class="left fl">
