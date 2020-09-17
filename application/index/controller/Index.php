@@ -58,6 +58,12 @@ class Index extends Controller
         }
         
         $this->assign("goodsAll", $arr1);
+
+        //导航栏
+        $obj = new ShopcatModel();
+        $res = $obj->selectLiebiao();
+        $this->assign('res',$res);
+
         return $this->fetch("./index");
     }
 
@@ -215,6 +221,15 @@ class Index extends Controller
 
     public function liebiao()
     {
+        $id = input('id');
+
+        $where = [
+            'type_id' => $id
+        ];
+
+        $obj = new ShopcatModel();
+        $res = $obj->selectTotal_type($where);
+        $this->assign('zhi',$res);
         return $this->fetch("./liebiao");
     }
 

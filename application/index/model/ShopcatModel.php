@@ -59,5 +59,13 @@
             }
         }
 
+        public function selectLiebiao($table='goods_type'){
+            return $result = Db::name($table)->select();
+        }
+
+        public function selectTotal_type($where){
+            return $result = Db::name("shopcat")->where($where)->select();
+        }
+
     }
 ?>

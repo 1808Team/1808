@@ -15,11 +15,11 @@ return [
     // 服务器地址
     'hostname'        => '127.0.0.1',
     // 数据库名
-    'database'        => '1808',
+    'database'        => '1808xiaomi',
     // 用户名
     'username'        => 'root',
     // 密码
-    'password'        => 'abc',
+    'password'        => '158614',
     // 端口
     'hostport'        => '',
     // 连接dsn
