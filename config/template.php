@@ -33,6 +33,7 @@ return [
         "tpl_replace_string"   => [
             "__JQ__"   => "/static/jquery" ,
             "__IMG__" => "/static/image",
-            "__CSS__" => "/static/css"
+            "__CSS__" => "/static/css",
+            '__LAYUI__'=> "/static/layui"
         ],
 ];

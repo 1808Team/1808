@@ -4,7 +4,10 @@
 		<meta charset="UTF-8">
         <meta name="author" content="order by dede58.com"/>
 		<title>小米商城-个人中心</title>
-		<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+		<link rel="stylesheet" type="text/css" href="__CSS__/style.css">
+		<script src="__LAYUI__/layui.js"></script>
+		<script src="__LAYUI__/layui.all.js"></script>
+		
 	</head>
 	<body>
 	<!-- start header -->
@@ -97,6 +100,7 @@
 					<li><a href="">意外保</a></li>
 					<li><a href="">团购订单</a></li>
 					<li><a href="">评价晒单</a></li>
+
 				</ul>
 			</div>
 			<div class="ddzx">个人中心</div>
@@ -111,12 +115,13 @@
 		</div>
 		<div class="rtcont fr">
 			<div class="grzlbt ml40">我的资料</div>
-			<div class="subgrzl ml40"><span>昵称</span><span>{$res.root}</span><span><a href="">编辑</a></span></div>
-			<div class="subgrzl ml40"><span>手机号</span><span>{$res.phone}</span><span><a href="">编辑</a></span></div>
-			<div class="subgrzl ml40"><span>密码</span><span>{$res.password}</span><span><a href="">编辑</a></span></div>
-			<div class="subgrzl ml40"><span>个性签名</span><span>{$res.Personal_signature}</span><span><a href="">编辑</a></span></div>
-			<div class="subgrzl ml40"><span>我的爱好</span><span>{$res.My_hobbies}</span><span><a href="">编辑</a></span></div>
-			<div class="subgrzl ml40"><span>收货地址</span><span>{$res.Shipping_address}</span><span><a href="">编辑</a></span></div>
+			<input type="hidden" name="id" id='id' value="{$res.id}">
+			<div class="subgrzl ml40"><span>昵称</span><span class="span">{$res.root}</span><span><a class="edit" onclick="updates('{$res.root}','root')">编辑</a></span></div>
+			<div class="subgrzl ml40"><span>手机号</span><span class="span">{$res.phone}</span><span><a class="edit" onclick="updates('{$res.phone}','phone')">编辑</a></span></div>
+			<div class="subgrzl ml40"><span>密码</span><span class="span">{$res.password}</span><span><a class="edit" onclick="updates('{$res.password}','password')">编辑</a></span></div>
+			<div class="subgrzl ml40"><span>个性签名</span><span class="span">{$res.personal_signature}</span><span><a class="edit" onclick="updates('{$res.personal_signature}','personal_signature')">编辑</a></span></div>
+			<div class="subgrzl ml40"><span>我的爱好</span><span class="span">{$res.my_hobbies}</span><span><a class="edit" onclick="updates('{$res.my_hobbies}','my_hobbies')">编辑</a></span></div>
+			<div class="subgrzl ml40"><span>收货地址</span><span class="span">{$res.shipping_address}</span><span><a class="edit" onclick="updates('{$res.shipping_address}','shipping_address')">编辑</a></span></div>
 			
 		</div>
 		<div class="clear"></div>
@@ -131,3 +136,43 @@
 		</footer>
 	</body>
 </html>
+<!-- 全局js -->
+    <script src="__JQ__/jquery.min.js"></script>
+    <script src="__JQ__/jquery-3.3.1.js"></script>
+
+<script type="text/javascript">
+
+
+		//编辑
+		function updates(a,b){
+			var updateDate = a; //要修改的值
+			id = $("#id").val(); //当前用户id
+			 zduan = b ; //字段
+	
+		 layer.open({
+              type: 2,
+              title:"编辑",
+              area: ['800px', '600px'],
+              fixed: false, //不固定
+              maxmin: true,
+              content: "{:url('index/MyCenter/index')}?id="+id+'&data='+updateDate+"&zduan="+zduan
+            });
+
+		}
+
+	// $(".edit").click(function (){
+	// 	// var span = $('.span').html();
+	// 	layer.prompt({
+	// 	    formType: 2,
+	// 	    content:"{:url('My_Center/index')}",
+	// 	    // value: span,
+	// 	    title: '请输入值',
+	// 	    area: ['400px', '150px'] //自定义文本域宽高
+	//     }, function(value, index, elem){
+	// 		layer.close(index);
+	// 		layer.msg('已修改为：'+value);
+	// 	});
+	// });
+ 	
+	
+</script>
