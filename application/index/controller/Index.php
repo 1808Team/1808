@@ -221,15 +221,26 @@ class Index extends Controller
 
     public function liebiao()
     {
-        $id = input('id');
-
-        $where = [
-            'type_id' => $id
-        ];
-
         $obj = new ShopcatModel();
-        $res = $obj->selectTotal_type($where);
-        $this->assign('zhi',$res);
+        
+        if(!empty($id)){
+            $id = input('id');
+            $where = [
+                'type_id' => $id
+            ];
+    
+            $res = $obj->selectTotal_type($where);
+            $this->assign('zhi',$res);
+        }else{
+             $name = input('name');
+             $where = [
+                 ['name','like',"%$name%"]
+             ];
+            
+             $res = $obj->selectTotal_type($where);
+             $this->assign('zhi',$res);
+             $this->assign('name',$name);
+        }
         return $this->fetch("./liebiao");
     }
 

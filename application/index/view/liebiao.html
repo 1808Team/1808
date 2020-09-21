@@ -70,9 +70,9 @@
 				</ul>
 			</div>
 			<div class="search fr">
-				<form action="" method="post">
+				<form action="{:url('Index/liebiao')}" method="post">
 					<div class="text fl">
-						<input type="text" class="shuru"  placeholder="小米6&nbsp;小米MIX现货">
+						<input type="text" class="shuru"  placeholder="小米6&nbsp;小米MIX现货" name='name' {if !empty($name)} value="{$name}" {/if}>
 					</div>
 					<div class="submit fl">
 						<input type="submit" class="sousuo" value="搜索"/>
@@ -90,16 +90,26 @@
 	<!-- start danpin -->
 
 		<div class="danpin center">
-			<div class="biaoti center">小米手机</div>
+			<div class="biaoti center">
+				{if empty($name)}
+					小米手机
+				{else/}
+					{$name}
+				{/if}
+			</div>
 			<div class="main center">
-				{foreach $zhi as $key => $val}
-				<div class="mingxing fl mb20" style="border:2px solid #fff;width:230px;cursor:pointer;" onmouseout="this.style.border='2px solid #fff'" onmousemove="this.style.border='2px solid red'">
-					<div class="sub_mingxing"><a href="./xiangqing.html" target="_blank"><img src="{$zhi[$key]['img']}" alt=""></a></div>
-					<div class="pinpai"><a href="./xiangqing.html" target="_blank">{$zhi[$key]['name']}</a></div>
-					<div class="youhui">{$zhi[$key]['synopsis']}</div>
-					<div class="jiage">{$zhi[$key]['price']}.00元</div>
-				</div>
-				{/foreach}
+				{if !empty($zhi)}
+					{foreach $zhi as $key => $val}
+					<div class="mingxing fl mb20" style="border:2px solid #fff;width:230px;cursor:pointer;" onmouseout="this.style.border='2px solid #fff'" onmousemove="this.style.border='2px solid red'">
+						<div class="sub_mingxing"><a href="./xiangqing.html" target="_blank"><img src="{$zhi[$key]['img']}" alt=""></a></div>
+						<div class="pinpai"><a href="./xiangqing.html" target="_blank">{$zhi[$key]['name']}</a></div>
+						<div class="youhui">{$zhi[$key]['synopsis']}</div>
+						<div class="jiage">{$zhi[$key]['price']}.00元</div>
+					</div>
+					{/foreach}
+				{else/}
+					没有东西哦，换一个关键词试试吧
+				{/if}
 			</div>
 				
 				<div class="clear"></div>
