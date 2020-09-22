@@ -388,3 +388,25 @@
 		</footer>
 	</body>
 </html>
+<script src="__JS__/jquery-3.4.1.min.js"></script>
+<script>
+	window.onload=function(){
+		setInterval("lunbo()",5000);
+	}
+	var jishu=0;
+	function lunbo(){
+		var arrTmg=[
+			"lunbo1.jpg",
+			"lunbo2.jpg",
+			"lunbo3.jpg",
+			"lunbo4.jpg",
+			"lunbo5.jpg",
+			"lunbo6.jpg"
+		];
+		jishu++;
+		$('.banner_y').css("background","url('__IMG__/"+arrImg[jishu]+"')no-repeat");
+		if(jishu==5){
+			jishu=0;
+		}
+	}
+</script>
