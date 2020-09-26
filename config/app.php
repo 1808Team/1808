@@ -118,7 +118,8 @@ return [
     'view_replace_str' => [
         '__JS__'=>'/static/shopStyle/js',
         '__IMG__'=>"/static/shopStyle/images",
-        '__CSS__'=> "/static/shopStyle/css"
+        '__CSS__'=> "/static/shopStyle/css",
+        '__LAUI__'=> "/static/layui"
     ],
 
 ];

@@ -13,6 +13,7 @@ class Selfinfo extends Controller
         $id=Session::get('id');
 		$obj=new SelfinfoModel();
 		$res=$obj->selects($id);
+
 		$this->assign('res',$res);
 		return $this->fetch("./self_info");
 	}

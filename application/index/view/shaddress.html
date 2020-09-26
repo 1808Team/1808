@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="order by dede58.com"/>
+    <title>小米商城-个人中心</title>
+    <link rel="stylesheet" type="text/css" href="__CSS__/style.css">
+    <link rel="stylesheet" type="text/css" href="__CSS__/font.css">
+    <link rel="stylesheet" type="text/css" href="__CSS__/xadmin.css">
+
+    <link rel="stylesheet" type="text/css" href="/static/layui/css/layui.css">
+
+</head>
+<body>
+<!-- start header -->
+<header>
+    <div class="top center">
+        <div class="left fl">
+            <ul>
+                <li><a href="http://www.mi.com/" target="_blank">小米商城</a></li>
+                <li>|</li>
+                <li><a href="">MIUI</a></li>
+                <li>|</li>
+                <li><a href="">米聊</a></li>
+                <li>|</li>
+                <li><a href="">游戏</a></li>
+                <li>|</li>
+                <li><a href="">多看阅读</a></li>
+                <li>|</li>
+                <li><a href="">云服务</a></li>
+                <li>|</li>
+                <li><a href="">金融</a></li>
+                <li>|</li>
+                <li><a href="">小米商城移动版</a></li>
+                <li>|</li>
+                <li><a href="">问题反馈</a></li>
+                <li>|</li>
+                <li><a href="">Select Region</a></li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+        <div class="right fr">
+            <div class="gouwuche fr"><a href="./dingdanzhongxin.html">我的订单</a></div>
+            <div class="fr">
+                <ul>
+                    {if empty($Think.Session.root)}
+                    <li><a href="/Index/login/index" target="_blank">登录</a></li>
+                    <li>|</li>
+                    <li><a href="/Index/register/index" target="_blank" >注册</a></li>
+                    {else/}
+                    <li><a href="/Index/selfinfo/selfinfo">{$Think.Session.root}</a></li>
+                    {/if}
+                    <li>|</li>
+                    <li><a href="#top">个人中心</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</header>
+<!--end header -->
+<!-- start banner_x -->
+<div class="banner_x center">
+    <a href="./index.html" target="_blank"><div class="logo fl"></div></a>
+    <a href=""><div class="ad_top fl"></div></a>
+    <div class="nav fl">
+        <ul>
+            <li><a href="">小米手机</a></li>
+            <li><a href="">红米</a></li>
+            <li><a href="">平板·笔记本</a></li>
+            <li><a href="">电视</a></li>
+            <li><a href="">盒子·影音</a></li>
+            <li><a href="">路由器</a></li>
+            <li><a href="">智能硬件</a></li>
+            <li><a href="">服务</a></li>
+            <li><a href="">社区</a></li>
+        </ul>
+    </div>
+    <div class="search fr">
+        <form action="" method="post">
+            <div class="text fl">
+                <input type="text" class="shuru"  placeholder="小米6&nbsp;小米MIX现货">
+            </div>
+            <div class="submit fl">
+                <input type="submit" class="sousuo" value="搜索"/>
+            </div>
+            <div class="clear"></div>
+        </form>
+        <div class="clear"></div>
+    </div>
+</div>
+<!-- end banner_x -->
+<!-- self_info -->
+<div class="grzxbj">
+    <div class="selfinfo center">
+        <div class="lfnav fl">
+            <div class="ddzx">订单中心</div>
+            <div class="subddzx">
+                <ul>
+                    <li><a href="/" >我的订单</a></li>
+                    <li><a href="">意外保</a></li>
+                    <li><a href="">团购订单</a></li>
+                    <li><a href="">评价晒单</a></li>
+
+                </ul>
+            </div>
+            <div class="ddzx">个人中心</div>
+            <div class="subddzx">
+                <ul>
+                    <li><a href="/index/Selfinfo/selfinfo">我的个人中心</a></li>
+                    <li><a href="">消息通知</a></li>
+                    <li><a href="">优惠券</a></li>
+                    <li><a href="" style="color:#ff6700;font-weight:bold;">收货地址</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="rtcont fr">
+            <div class="grzlbt ml40">我的收获地址</div>
+            <div class="layui-card-header">
+                <button class="layui-btn" onclick="xadmin.open('添加地址','/index/Address/dizhi',1000,600)"><i class="layui-icon"></i>添加地址</button>
+            </div>
+
+            <div class="sd">
+
+                <table class="layui-table layui-form">
+                    <thead>
+
+                    <tr>
+                        <th>
+                            <input type="checkbox" lay-filter="checkall" name="" lay-skin="primary">
+                        </th>
+                        <th>ID</th>
+                        <th>收货人</th>
+                        <th>区域</th>
+                        <th>手机号码</th>
+                        <th>详细地址</th>
+                        <th>默认地址</th>
+                        <th>操作</th></tr>
+                    </thead>
+
+                    {foreach name="res" item="vo"}
+                        <tr>
+                            <td>
+                                <input type="checkbox" name="id" value="1"   lay-skin="primary">
+                            </td>
+                            <td>{$vo.id}</td>
+                            <td>{$vo.name}</td>
+                            <td>{$vo.quyu}</td>
+                            <td>{$vo.phone}</td>
+                            <td>{$vo.address}</td>
+                            {if $vo.tinyint == 0}
+
+                             <td><a href="#" class="shewei">设为默认</a></td>
+
+                            {else/}
+
+                             <td class="moren"><a href="#">默认地址</a></td>
+                            {/if}
+
+                            <td class="td-manage">
+
+                                <a title="编辑"  onclick="xadmin.open('编辑','/index/Address/updatedizhi?id={$vo.id}',600,400)" href="javascript:;">
+                                    <i class="layui-icon">&#xe642;</i>
+                                </a>
+                                <a title="删除" onclick="member_del(this,'{$vo.id}')" href="javascript:;">
+                                    <i class="layui-icon">&#xe640;</i>
+                                </a>
+                            </td>
+                        </tr>
+                    {/foreach}
+                </table>
+            </div>
+        </div>
+    </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<!-- self_info -->
+
+<footer class="mt20 center">
+    <div class="mt20">小米商城|MIUI|米聊|多看书城|小米路由器|视频电话|小米天猫店|小米淘宝直营店|小米网盟|小米移动|隐私政策|Select Region</div>
+    <div>©mi.com 京ICP证110507号 京ICP备10046444号 京公网安备11010802020134号 京网文[2014]0059-0009号</div>
+    <div>违法和不良信息举报电话：185-0130-1238，本网站所列数据，除特殊说明，所有数据均出自我司实验室测试</div>
+</footer>
+</body>
+</html>
+<!-- 全局js -->
+<script src="__LAYUI__/layui.js"></script>
+<script src="__LAYUI__/xadmin.js"></script>
+<script src="__LAYUI__/layui.all.js"></script>
+<script src="__JQ__/jquery.min.js"></script>
+<script src="__JQ__/jquery-3.3.1.js"></script>
+
+
+<script type="text/javascript">
+
+
+    /*地址-删除*/
+    function member_del(obj,id){
+        layer.confirm('确认要删除吗？',function(index){
+            //发异步删除数据
+
+            $.getJSON('/index/Address/delizhi', {'id' : id}, function(res){
+
+                if(res.code == 1){
+                    layer.msg(res.msg, {icon: 1})
+                    location.reload();
+                }else{
+                    layer.alert('删除失败');
+                    location.reload();
+                }
+
+            });
+        });
+    }
+
+
+
+</script>
