@@ -244,7 +244,7 @@ class Index extends Controller
         return $this->fetch("./liebiao");
     }
 
-    public function xianqing()
+    public function xiangqing()
     {
         return $this->fetch("./xiangqing");
     }
